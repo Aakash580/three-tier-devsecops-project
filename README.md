@@ -20,7 +20,7 @@ This Repo is your blueprint for leveraging AWS services like ECR, S3, DynamoDB, 
 
 **Pipeline Automation:** Build, scan, and deploy Docker images using Jenkins, Trivy, and SonarQube.
 
-**Cluster Monitoring:** Install Prometheus and Grafana to monitor application health with visual dashboards.
+**Cluster Monitoring:** Install Prometheus and Grafana to monitor application health with visual dashboards....
 
 **GitOps with ArgoCD:** Achieve seamless application deployment and updates via Git repositories.
 
